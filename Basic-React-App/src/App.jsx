@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import ProductTab from "./productTab.jsx";
+
 import './App.css'
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
 
   return (
     <>
+      <h2>BlockBluster Deals | Shop Now</h2>
       <ProductTab />
     </>
   )
