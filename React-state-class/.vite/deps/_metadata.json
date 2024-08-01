@@ -1,0 +1,21 @@
+{
+  "hash": "0eaea723",
+  "configHash": "4ea5128d",
+  "lockfileHash": "5139bf32",
+  "browserHash": "61b8fdd6",
+  "optimized": {
+    "preact": {
+      "src": "../../node_modules/preact/dist/preact.module.js",
+      "file": "preact.js",
+      "fileHash": "c879176a",
+      "needsInterop": false
+    },
+    "uuid": {
+      "src": "../../node_modules/uuid/dist/esm-browser/index.js",
+      "file": "uuid.js",
+      "fileHash": "0c6e8858",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}
