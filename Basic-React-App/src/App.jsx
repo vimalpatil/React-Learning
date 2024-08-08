@@ -1,4 +1,5 @@
 
+
 import ProductTab from "./productTab.jsx";
 
 import './App.css'
@@ -22,6 +23,7 @@ function App() {
       {/* <Lottery /> */}
       {/* <h2>BlockBluster Deals | Shop Now</h2>
       <ProductTab /> */}
+
     </>
   )
 }
